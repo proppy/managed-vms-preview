@@ -40,9 +40,7 @@ title: Managed VMs preview
 
 ### <i class="fa fa-bullhorn"></i> Discuss
 
-Join [appengine-vms-testers@googlegroups.com](https://groups.google.com/forum/#!forum/app-engine-managed-vms) groups to discuss with other early adopters and the engineering team.
-
-Join [#google-containers](http://webchat.freenode.net/?channels=google-containers) to discuss the docker integration.
+Join [appengine-vms-testers@googlegroups.com](https://groups.google.com/forum/#!forum/app-engine-managed-vms) groups and [#appengine](http://webchat.freenode.net/?channels=appengine) IRC channel on `irc.freenode.net` to discuss with other early adopters and the engineering team.
 
 ### <i class="fa fa-stack-overflow"></i> Ask Questions
 
