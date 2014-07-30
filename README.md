@@ -5,11 +5,11 @@ title: Managed VMs preview
 
 > Run your App Engine modules on Compute Engine
 
-- Get more CPU and RAM
+- Get more CPUs and RAM
 - Escape the App Engine sandbox
-- Customize your runtime
+- Customize your runtime, install third party dependencies
 - Call into native code
-- Package your module as Docker container images
+- Package your modules as Docker container images
 
 [Learn more](https://developers.google.com/appengine/docs/managed-vms/)
 
@@ -34,7 +34,7 @@ title: Managed VMs preview
 <i class="fa fa-git"></i> [*Sample*](#)  | | |
 <i class="fa fa-git"></i> [Cloud Client Library](https://github.com/GoogleCloudPlatform/gcloud-nodejs)  | | |
 [Simple docker base image](https://registry.hub.docker.com/u/google/nodejs-runtime) | [Simple docker base image](https://registry.hub.docker.com/u/google/ruby-runtime) | |
-[Customizable docker base image](https://registry.hub.docker.com/u/google/nodejs) | [Simple docker base image](https://registry.hub.docker.com/u/google/ruby) | |
+[Customizable docker base image](https://registry.hub.docker.com/u/google/nodejs) | [Customizable docker base image](https://registry.hub.docker.com/u/google/ruby) | |
 
 ## Community
 
