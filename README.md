@@ -1,6 +1,3 @@
----
-title: Managed VMs preview
-...
 # Managed VMs preview
 
 > Run your App Engine modules on Compute Engine
