@@ -7,20 +7,28 @@
 - Customize your runtime
 - Call into native code
 
-[Learn more](#) (coming soon)
+[Learn more (coming soon)](#)
 
 <script type="text/javascript" src="https://asciinema.org/a/11030.js" id="asciicast-11030" async></script>
 
 ## Managed Runtimes
 
-Python | Java | Go
-------------------
-Sample | Sample (coming soon) | Sample (coming soon)
-Tutorial | | 
-Dockerfile (simple) | |
-Dockerfile (advanced) | |
+Python        | Java         | Go
+------------- | ------------ | ------------
+[Hello World](#)  |  | 
+[Tutorial](#)  |  | 
+[Dockerfile (default)](#)  |  | 
+[Dockerfile (advanced)](#)  |  | 
 
 ## Custom Runtimes
+
+Node.js       | Ruby         | [&lt;Add yours&gt;](#)
+------------- | ------------ | ------------
+[Hello World](#)  | | 
+[Sample](#)  | | 
+[Client Library](#)  | | 
+[Docker base image (simple)](#)  |  | 
+[Docker base image (advanced)](#)  | | 
 
 Node.js | Ruby | [<Add yours>](#)
 ------------------
