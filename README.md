@@ -1,3 +1,6 @@
+---
+title: Managed VMs preview
+...
 # Managed VMs preview
 
 > Run your App Engine modules on Compute Engine
@@ -30,8 +33,8 @@
 <i class="fa fa-git"></i> [*Hello World*](#)  | | |
 <i class="fa fa-git"></i> [*Sample*](#)  | | |
 <i class="fa fa-git"></i> [Cloud Client Library](https://github.com/GoogleCloudPlatform/gcloud-nodejs)  | | |
-[Simple docker base image](https://registry.hub.docker.com/u/google/nodejs-runtime) |  | |
-[Customizable docker base image](https://registry.hub.docker.com/u/google/nodejs) | | |
+[Simple docker base image](https://registry.hub.docker.com/u/google/nodejs-runtime) | [Simple docker base image](https://registry.hub.docker.com/u/google/ruby-runtime) | |
+[Customizable docker base image](https://registry.hub.docker.com/u/google/nodejs) | [Simple docker base image](https://registry.hub.docker.com/u/google/ruby) | |
 
 ## Community
 
